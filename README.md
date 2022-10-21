@@ -1,10 +1,12 @@
 ### Hello world 👋
 
-C#: `ef6` `asp.net` `wpf`
+C#: `ef6` `asp.net` `wpf` `unity (android/vr)`
 
 JS/TS: `react/next`
 
-PY: `django`
+Py: `django`
+
+Other: `java` `scss` | `MVVM` `SOLID` `TAP` `MVC/MVT` `DI`
 
 Languages: `Russian(C2)` `English(B1.2)`
 
