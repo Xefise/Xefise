@@ -2,7 +2,7 @@
 
 C#: `ef6` `asp.net` `wpf` `unity (android/vr)`
 
-JS/TS: `react/next`
+JS/TS: `react/next` `vue`
 
 Py: `django`
 
