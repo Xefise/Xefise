@@ -1,13 +1,13 @@
 ### FullStackOverFlowHelloWorld Develooper 👋
 
 
-C#: `ef6` `asp.net` `wpf` `unity (android/vr)`
+C#: `EF6` `ASP.NET` `WPF` `Unity (Android/VR)`
 
-JS/TS: `react/next` `vue`
+JS/TS: `React/Next` `Vue`
 
-Py: `django`
+Py: `Django`
 
-Other: `java` `scss` `wordpress` | `solid` `tap` `di`
+Other: `Java` `SCSS` `WordPress` | `SOLID` `TAP` `DI`
 
 Languages: `Russian - Native(C2)` `English - Intermediate(B1.2)`
 
