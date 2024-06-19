@@ -1,13 +1,10 @@
 ### FullStackOverFlowHelloWorld Develooper 👋
 
+C#: `ASP.NET` `WPF` | `EF6` `GRPC` `Quartz.NET` | `DI` `Microservices`
 
-C#: `EF6` `ASP.NET` `WPF` `Unity (Android/VR)`
+JS/TS: `React/Next` | `MobX` `RHF` `SCSS` `i18Next` `OpenAPI TS Codegen` | `FSD`
 
-JS/TS: `React/Next` `Vue`
-
-Py: `Django`
-
-Other: `Java` `SCSS` `WordPress` | `SOLID` `TAP` `DI`
+Also have some expirience at: `Unity (Android/VR)` `Vue/Nuxt` `Docker` `Kubernetes` `Java` `WordPress` 
 
 Languages: `Russian - Native(C2)` `English - Intermediate(B1.2)`
 
