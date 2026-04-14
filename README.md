@@ -1,6 +1,6 @@
 ### FullStackOverFlowHelloWorld Develooper 👋
 
-C#: `ASP.NET` `WPF` | `EF` `gRPC` `Quartz.NET` `SignalR` `RabbitMQ` | `DI` `Microservices`
+C#: `ASP.NET` `WPF` | `EF` `gRPC` `Quartz.NET` `SignalR` `RabbitMQ` `xUnit` `Redis` | `DI` `Microservices` `DDD` `CQRS`
 
 JS/TS: `React/Next` | `MobX` `RHF` `SCSS` `i18Next` `OpenAPI TS Codegen` `MUI` | `FSD`
 
