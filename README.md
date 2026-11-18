@@ -4,7 +4,7 @@ C#: `ASP.NET` `WPF` | `EF` `gRPC` `Quartz.NET` `SignalR` `RabbitMQ` `xUnit` `Red
 
 JS/TS: `React/Next` | `MobX` `RHF` `SCSS` `i18Next` `OpenAPI TS Codegen` `MUI` | `FSD`
 
-Also have some expirience at: `Docker` `Kubernetes` `Unity (Android/VR)` `Vue/Nuxt` `Java` `WordPress` 
+Also have some expirience at: `GOlang` `Rust` `Docker` `Kubernetes` `Unity (Android/VR)` `Vue/Nuxt` `Java` `WordPress` 
 
 Languages: `Russian - Native(C2)` `English - Intermediate(B1)`
 
